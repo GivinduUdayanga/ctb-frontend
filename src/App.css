@@ -1,0 +1,83 @@
+
+
+
+.home {
+    background-color: rgb(241, 89, 89);
+    height: 100px;
+    width: 100px
+}
+
+.perspective {
+  perspective: 1200px;
+}
+
+.border{
+    border: 2px solid black
+}
+
+.shadow{
+    box-shadow: 5px 5px 5px gray;
+}
+
+/* hideScrollbar.css */
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.darkteal {
+  background-color: rgb(25, 53, 39);
+}
+
+.darkgreen {
+  background-color: rgb(60, 73, 67);
+}
+
+.olivegreen {
+  background-color: rgb(175, 187, 125);
+}
+
+.lightgreen{
+  background-color: rgb(229, 243, 208)
+;
+}
+
+.dgreen{
+  background-color: rgb(134, 130, 119);
+}
+
+.bg{
+  background-color: rgb(233, 233, 231);
+}
+.bggreen{
+  background-color: rgb(117, 141, 130);
+}
+
+.bgreen{
+  background-color: rgb(179, 199, 190);
+}
+
+
+bg{
+  background-color: rgb(228, 226, 219);
+}
+
+.lgreen{
+  background-color: rgb(236, 248, 233)
+;
+}
+
+.b_green{
+  background-color: rgb(241, 250, 247);
+}
+
+.bgold {
+  background-color: rgb(212, 175, 55);
+}
+
+.tgold {
+  color: rgb(212, 175, 55);;
+}
